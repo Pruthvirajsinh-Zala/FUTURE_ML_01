@@ -21,3 +21,7 @@ To forecast monthly sales for the product line **Vintage Cars** using Prophet wi
  🔢 Model Evaluation
 | Metric | Value |
 |--------|--------|
+| MAE | 4905.56 |
+| RMSE | 6852.82 |
+| MAPE | 12.23% |
+
