@@ -57,6 +57,6 @@ This forecasting solution helps businesses:
 ## 🔗 Useful Links
 
 - 📘 [Kaggle Notebook](https://www.kaggle.com/code/pruthvirajsinhzala99/sales-prediction)
-- 📣 [LinkedIn Post]()
+- 📣 [LinkedIn Post](https://www.linkedin.com/posts/pruthvirajsinh-zala_futureinterns-internship-salesforecasting-activity-7325036569084481536-INE_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUFPK0BQ9rBAH43xcdD_uyV5Tfe-M7-2Yw)
 
 ---
